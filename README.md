@@ -6,8 +6,6 @@ Example scripts for defSim || Discrete Event Framework for Social Influence Mode
 - [defSim git repository](https://github.com/marijnkeijzer/defSim)
 - [documentation for defSim](https://marijnkeijzer.github.io/defSim)
 
-New to defSim? [Learn how to use defSim in this quick introduction](https://marijnkeijzer.github.io/defSim/Introduction_to_defSim.html)
-
 For a description of all of defSim's functions, see the [documentation](https://marijnkeijzer.github.io/defSim)
 
 Included examples
